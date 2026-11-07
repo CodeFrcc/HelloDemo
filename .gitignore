@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+out/
+*.user
+*.suo
+.vs/
+
+## Rider
+.idea/
+
+## Build artifacts
+*.dll
+*.exe
+*.pdb
+HelloDemo/bin/**
+HelloDemo/obj/**
